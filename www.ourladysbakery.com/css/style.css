@@ -72,7 +72,7 @@ input, textarea, select {
 	font-size: 12px;font-family: "myriad-pro", sans-serif;color: #403a3c;
 }
 .button {
-	float: left;width: 130px;height: 27px;text-align: center;text-transform: uppercase;line-height: 27px;font-size: 16px;font-weight: 300;font-family: "myriad-pro-condensed", sans-serif;
+	float: left;width: 175px;height: 27px;text-align: left;text-transform: uppercase;line-height: 27px;font-size: 13px;font-weight: 300;font-family: "myriad-pro-condensed", sans-serif;
 }
 .button-yellow {
 	color: #715105;text-shadow: 1px 2px 1px #cfb26d;background: transparent url('../images/button-yellow.png') no-repeat left top;
